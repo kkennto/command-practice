@@ -1,3 +1,3 @@
 def get_area(bottom, height):
-    area = bottom * hright
+    area = bottom * height
     return area
